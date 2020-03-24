@@ -1,2 +1,16 @@
-# Classification-Hands-On-Academic-
-A Hands on exercise around the fundamentals of different classification algorithms
+# Classification-Hands-On-Academic-Assignment
+A Hands on academic exercise around the fundamentals of different classification algorithms.
+
+Language: Python 3
+
+Course: Intelligent Data Analysis (CS 6052) taught by Dr. Gowtham Atluri
+
+Goal: Learn, implement, evaluate and reason out results of different classification algorithms Decision Trees, Naive Bayes, SVM (Linear and non-linear), K - Nearest Neighbours, Ensemble method (Bagging).
+
+Data: Multiple datasets with two classes.
+
+Approach: We have been provided with datasets and interesting questions that need to be answered by understanding the fundamental of the different algorithms. A sample practise module was also provided by the professor to guide us with some sample codes and help us getting started.
+
+Acknowledgement: This assignment is designed by Dr. Gowtham At as a part of requirement for CS 6052 - Intelligent Data Analysis course at the University of Cincinnati.
+
+Score: 10/10
